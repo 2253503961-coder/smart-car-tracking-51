@@ -1,3 +1,14 @@
+---
+AIGC:
+    Label: "1"
+    ContentProducer: 001191440300708461136T1XGW3
+    ProduceID: a9bc843330e7b9dfb48be9ad20e523a4_e29f36a6796511f1b3d35254007bceed
+    ReservedCode1: Ay9s0OjE063Jw/g7QUbQE1GKvL/ii767SaBfNEkG5IRKe6SWLe/NGDjd4feS+RHaSi+1UwBOZ34Cty5GXsdwZxvR5wuK2+Ot5YVqWntRZsD2ybkZzExVtjRIhdQ0TY7AU+5L/Jur5FysjZk8YSma/aacQa7ZwY2YrsXgqwAwckUx/QruORONkmh63YQ=
+    ContentPropagator: 001191440300708461136T1XGW3
+    PropagateID: a9bc843330e7b9dfb48be9ad20e523a4_e29f36a6796511f1b3d35254007bceed
+    ReservedCode2: Ay9s0OjE063Jw/g7QUbQE1GKvL/ii767SaBfNEkG5IRKe6SWLe/NGDjd4feS+RHaSi+1UwBOZ34Cty5GXsdwZxvR5wuK2+Ot5YVqWntRZsD2ybkZzExVtjRIhdQ0TY7AU+5L/Jur5FysjZk8YSma/aacQa7ZwY2YrsXgqwAwckUx/QruORONkmh63YQ=
+---
+
 # Proteus 仿真原理图搭建说明
 
 ## 所需元件清单
@@ -45,3 +56,4 @@
 | 右红外 OUT | P3^5 (DR) | 接10KΩ上拉电阻到VCC |
 
 > 注：红外对管检测到黑线时输出低电平，检测到白色地面时输出高电平。
+*（内容由AI生成，仅供参考）*
